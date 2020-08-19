@@ -33,10 +33,10 @@ cd ..        #existing from directory
 tty          #showing the path of current open terminal
 htop         #shows all processes list
 $$           #will give you the processid of the script
-$EUID        ```echo $EUID``` effective user ID describes the user whose file access permissions are used by the process
+$EUID        #`echo $EUID` effective user ID describes the user whose file access permissions are used by the process
 $RUID        #`echo $RUID` real user ID identifies the user who created the process
 $UID         #`echo $UID`  is a unique identification number assigned to every user present in a Linux system
-$GID         #`echo $GID'  group identifier
+$GID         #`echo $GID`  group identifier
 $PATH        #`echo $PATH` the current command directory
 $PID         #`echo $PID`  non-negative processid
 
@@ -45,7 +45,7 @@ $PID         #`echo $PID`  non-negative processid
 ##############################################################################
 
 
-                *-------------------*
+       
 
 
 
