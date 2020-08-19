@@ -3,4 +3,4 @@
 # SHORTCUTS and HISTORY
 ##############################################################################
 
-Ctrl+Shift+N    >. Open Terminal
+`Ctrl+Shift+N`    >. Open Terminal
